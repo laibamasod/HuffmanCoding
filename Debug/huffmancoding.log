@@ -1,0 +1,3 @@
+﻿  huffman.cpp
+C:\Users\PC\Desktop\huffmancoding\huffman.cpp(86,11): warning C4018: '<': signed/unsigned mismatch
+  huffmancoding.vcxproj -> C:\Users\PC\Desktop\huffmancoding\Debug\huffmancoding.exe
